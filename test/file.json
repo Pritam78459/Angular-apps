@@ -1,0 +1,37 @@
+{
+
+"obj" : [ {
+
+      "name": "Pritom",
+      "online": true
+      
+    },
+    {
+      "name": "Snake",
+      "online": true
+      
+    },
+    {
+      "name": "Liquid",
+      "online": false
+      
+    },
+    {
+  
+      "name": "Pritom",
+      "online": true
+      
+    },
+    {
+      "name": "Snake",
+      "online": true
+      
+    },
+    {
+      "name": "Liquid",
+      "online": false
+      
+    }
+  ]
+
+}
